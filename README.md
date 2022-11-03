@@ -13,4 +13,4 @@ and get a better grasp on what goes into working on websits.
 Major credits for help with bugs goes to https://www.w3docs.com/, with their extensive library of sample code I was able to properly solve many of the 
 issues I encountered while working on this project. 
 
-The live site for this can be reached at the following: 
+The live site for this can be reached at the following: https://clevehardcastle.github.io/Horiseon-SEO-webpage/
