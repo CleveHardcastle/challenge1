@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* sets the headers properties */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* set the pages main image properties */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,12 +58,12 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* keeps the left boxes left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* keeps the right boxes right */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -95,13 +95,13 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* sets the properties for the images inside left-boxes */
 .benefit-box img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* sets the properties for the 3 boxes on the left */
 .left-boxes {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,7 +119,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* footer properties */
 .footer {
     padding: 30px;
     clear: both;
